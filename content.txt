@@ -14,7 +14,7 @@
      <li><a href="http://solinea.com/about-us" target="_blank">About Us</a></li>
      <li><a href="http://solinea.com/open-infrastructure-services" target="_blank">Products</a></li>
      <li><a href="http://solinea.com/open-infrastructure-services/training" target="_blank">Training</a></li>
-     <li><a href="http://solinea.com/blog" target="_blank">Blog</a></li>
+     <li><a href="http://solinea.com/blog" target="_blank">Updated Blogs</a></li>
      <li><a href="http://solinea.com/blog" target="_blank">New Features</a></li>
      <li><a href="http://solinea.com/blog" target="_blank">Resources</a></li>
    </ul>
