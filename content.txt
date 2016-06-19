@@ -4,7 +4,7 @@
   <div class="verticalmenu">
    <ul>
      <li><a href="http://solinea.com" target="_blank">Home</a></li>
-     <li><a href="http://solinea.com/about-us" target="_blank">About Us</a></li>
+     <li><a href="http://www.youtube.com" target="_blank">About Us</a></li>
      <li><a href="http://solinea.com/open-infrastructure-services" target="_blank">Products</a></li>
      <li><a href="http://solinea.com/open-infrastructure-services/training" target="_blank">Training</a></li>
      <li><a href="http://solinea.com/blog" target="_blank">Updated Blogs</a></li>
@@ -15,7 +15,7 @@
 
    		</div>
    		<div id="content"><h2>Lorem ipsum</h2>
-<p>Seth is awesome. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur elit nibh, venenatis a, ornare id, elementum et, sem. Aliquam adipiscing faucibus risus. Nulla at libero. Vivamus vitae lorem id sem pellentesque euismod. Quisque libero. Etiam fermentum mattis eros. Donec faucibus elit sed enim. Fusce pulvinar tincidunt erat. Phasellus elit. In luctus. Aliquam erat volutpat. Nullam imperdiet tellus vitae magna. Proin ut purus. Cras condimentum sagittis eros. Morbi laoreet nunc eget erat. Duis varius.
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur elit nibh, venenatis a, ornare id, elementum et, sem. Aliquam adipiscing faucibus risus. Nulla at libero. Vivamus vitae lorem id sem pellentesque euismod. Quisque libero. Etiam fermentum mattis eros. Donec faucibus elit sed enim. Fusce pulvinar tincidunt erat. Phasellus elit. In luctus. Aliquam erat volutpat. Nullam imperdiet tellus vitae magna. Proin ut purus. Cras condimentum sagittis eros. Morbi laoreet nunc eget erat. Duis varius.
 </p>	
 
 <p>	
