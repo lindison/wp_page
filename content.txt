@@ -5,6 +5,7 @@
    <ul>
      <li><a href="http://solinea.com" target="_blank">Home</a></li>
      <li><a href="http://solinea.com/blog" target="_blank">Resources</a></li>
+     <li><a href="https://wordpress.org/themes/" target="_blank">WordPress Themes</a></li>
    </ul>
  </div> 
 
