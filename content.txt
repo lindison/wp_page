@@ -4,8 +4,8 @@
   <div class="verticalmenu">
    <ul>
      <li><a href="http://solinea.com" target="_blank">Home</a></li>
-     <li><a href="http://solinea.com/goldstone" target="_blank">GoldStone</a></li>
-     <li><a href="http://solinea.com/open-infrastructure-services" target="_blank">Services</a><li>
+     <li><a href="http://solinea.com/blog" target="_blank">Resources</a></li>
+     <li><a href="https://wordpress.org/themes/" target="_blank">WordPress Themes</a></li>
    </ul>
  </div> 
 
@@ -13,8 +13,6 @@
    		<div id="content"><h2>Lorem ipsum</h2>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur elit nibh, venenatis a, ornare id, elementum et, sem. Aliquam adipiscing faucibus risus. Nulla at libero. Vivamus vitae lorem id sem pellentesque euismod. Quisque libero. Etiam fermentum mattis eros. Donec faucibus elit sed enim. Fusce pulvinar tincidunt erat. Phasellus elit. In luctus. Aliquam erat volutpat. Nullam imperdiet tellus vitae magna. Proin ut purus. Cras condimentum sagittis eros. Morbi laoreet nunc eget erat. Duis varius.
 </p>	
-
-<img src="http://www.solinea.com/wp-content/uploads/2014/06/6.png" alt="GoldStone">
 
 <p>	
 Phasellus eget nibh vestibulum felis tempor tincidunt. Fusce sollicitudin tincidunt quam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris lectus libero, lacinia ut, tempor quis, rutrum in, arcu. Nullam fermentum imperdiet quam. Pellentesque ut urna. Nulla facilisi. In luctus felis sed nunc. Integer id diam quis erat hendrerit pulvinar. Suspendisse a dui. Sed eget lorem pharetra enim dignissim facilisis. Vestibulum eu nunc eu quam tincidunt convallis. Proin non ante.
