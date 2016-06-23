@@ -11,7 +11,7 @@
  </div> 
 
    		</div>
-   		<div id="content"><h2>Lorem ipsum</h2>i
+   		<div id="content"><h2>Lorem ipsum</h2>
 <p> 
 Answering the call for a cloud resource optimization, audit, and management platform unbound to any vendor’s distro or deployment. The product is a resource optimization platform for enterprise operators of OpenStack private and hybrid clouds. Additionally, it offers audit and visualization capabilities, as well as monitoring and alerting tools. Solinea Goldstone Enterprise helps optimize resource utilization while satisfying compliance requirements. 
 </p>
