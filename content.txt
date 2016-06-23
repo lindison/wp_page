@@ -6,8 +6,6 @@
      <li><a href="http://solinea.com" target="_blank">Home</a></li>
      <li><a href="http://solinea.com/goldstone" target="_blank">GoldStone</a></li>
      <li><a href="http://solinea.com/open-infrastructure-services" target="_blank">Services</a><li>
-     <li><a href="http://solinea.com/blog" target="_blank">Solinea Blog</a></li>
-     <li><a href="https://wordpress.org/themes/" target="_blank">WordPress Themes</a></li>
    </ul>
  </div> 
 
